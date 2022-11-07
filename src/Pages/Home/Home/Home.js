@@ -1,22 +1,20 @@
 import React from "react";
-import { Outlet } from "react-router-dom";
-import CustomLink from "../../../Shared/CustomLink/CustomLink";
-import Banner from "../../Home/Banner/Banner"
+import Banner from "../../Home/Banner/Banner";
+import FoodsNavbar from "../Foods/FoodsNavbar/FoodsNavbar";
+import OurServices from "../OurServices/OurServices";
 
 const Home = () => {
-  
   return (
-    <div className="">
-          <Banner></Banner>
-          <div className="my-6">
-              <nav className="flex items-center justify-center">
-                  <CustomLink to='/home/breakfast' className="mr-2"> Breakfast </CustomLink>
-                  <CustomLink to='/home/lunch' className="mr-2"> Lunch </CustomLink>
-                  <CustomLink to='/home/dinner' className="mr-2"> Dinner </CustomLink>
-              </nav>
-              <Outlet/>
-          </div>
-    </div>
+    <>
+      <Banner></Banner>
+      <FoodsNavbar></FoodsNavbar>
+      <div>
+        <button className="text-md text-gray-100 my-8 px-8 py-1 bg-gray-500 hover:bg-teal-900 rounded-lg">
+          Checkout Your Food
+        </button>
+      </div>
+      <OurServices></OurServices>
+    </>
   );
 };
 
