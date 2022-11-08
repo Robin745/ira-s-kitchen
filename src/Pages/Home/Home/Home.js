@@ -1,9 +1,12 @@
 import React from "react";
+import useMeals from "../../../hook/useMeals";
 import Banner from "../../Home/Banner/Banner";
 import FoodsNavbar from "../Foods/FoodsNavbar/FoodsNavbar";
 import OurServices from "../OurServices/OurServices";
 
 const Home = () => {
+  const [data] = useMeals();
+  console.log(data)
   return (
     <>
       <Banner></Banner>

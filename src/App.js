@@ -6,6 +6,7 @@ import Footer from "./Shared/Footer/Footer";
 import Breakfast from "./Pages/Home/Foods/Breakfast/Breakfast";
 import Lunch from "./Pages/Home/Foods/Lunch/Lunch";
 import Dinner from "./Pages/Home/Foods/Dinner/Dinner";
+import ItemDetails from "./Pages/ItemDetails/ItemDetails";
 
 function App() {
   return (
@@ -21,6 +22,10 @@ function App() {
             <Route path="lunch" element={<Lunch></Lunch>}></Route>
             <Route path="dinner" element={<Dinner></Dinner>}></Route>
           </Route>
+          <Route path="items/:catagory/:id" element={<ItemDetails></ItemDetails>}></Route>
+          <Route path="breakfast/items/:catagory/:id" element={<ItemDetails></ItemDetails>}></Route>
+          <Route path="lunch/items/:catagory/:id" element={<ItemDetails></ItemDetails>}></Route>
+          <Route path="dinner/items/:catagory/:id" element={<ItemDetails></ItemDetails>}></Route>
         </Routes>
       </BrowserRouter>
       <Footer></Footer>

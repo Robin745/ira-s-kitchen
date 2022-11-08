@@ -89,42 +89,42 @@
   ],
   "dinner": [
     {
-      "name": "Healthy Meal Plan",
+      "name": "Salmon With Grapefruit and Lentil Salad",
       "id": 1,
       "price": 81,
       "img": "./images/dinner/dinner1.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
-      "name": "Fried Chicken Bento",
+      "name": "Lemony Salmon Piccata",
       "id": 2,
       "price": 89,
       "img": "./images/dinner/dinner2.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
-      "name": "Tarragon-Rubbed-Salmon",
+      "name": "Pork Tenderloin with Quinoa Pilaf",
       "id": 3,
       "price": 94,
       "img": "./images/dinner/dinner3.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
-      "name": "Indian Lunch",
+      "name": "French Fries With Cheese",
       "id": 4,
       "price": 68,
       "img": "./images/dinner/dinner4.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
-      "name": "Beef Steak",
+      "name": "Garlic Butter Baked Salmon",
       "id": 5,
       "price": 93,
       "img": "./images/dinner/dinner5.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
-      "name": "Honey-Soy-Glazed Salmon with Peppers",
+      "name": "Baked Chicken",
       "id": 6,
       "price": 99,
       "img": "./images/dinner/dinner6.png",
