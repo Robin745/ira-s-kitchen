@@ -6,7 +6,6 @@ import OurServices from "../OurServices/OurServices";
 
 const Home = () => {
   const [data] = useMeals();
-  console.log(data)
   return (
     <>
       <Banner></Banner>

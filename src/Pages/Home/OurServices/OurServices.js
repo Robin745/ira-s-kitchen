@@ -8,10 +8,10 @@ const OurServices = () => {
   return (
     <div className="w-10/12 mx-auto">
       <div className="w-96 text-left my-8">
-        <h1 className="text-3xl font-semibold mb-4">
+        <h1 className="w-full text-xl md:text-3xl font-semibold mb-4">
           Why you choose our foods
         </h1>
-        <p>
+        <p className="w-[300px] md:w-[500px] lg:w-[700px] text-justify">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
           incidunt ex eum nemo, deserunt nulla?
         </p>
