@@ -92,14 +92,14 @@
       "name": "Salmon With Grapefruit and Lentil Salad",
       "id": 1,
       "price": 81,
-      "img": "./images/dinner/dinner1.png",
+      "img": "https://i.ibb.co/kBQ5MLN/dinner1.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Lemony Salmon Piccata",
       "id": 2,
       "price": 89,
-      "img": " https://i.ibb.co/kBQ5MLN/dinner1.png",
+      "img": "https://i.ibb.co/kKLWH09/dinner2.png",
       "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
@@ -136,21 +136,21 @@
       "name": "Fast Delevery",
       "id": 1,
       "img": "https://i.ibb.co/8D894L1/service1.png",
-      "icon": "https://ibb.co/x1GnCnn",
+      "icon": "./images/icons/icon1.png",
       "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "A Good Auto Responder",
       "id": 2,
       "img": "https://i.ibb.co/L8rT5Pg/service2.png",
-      "icon": "https://ibb.co/fHpDHM2",
+      "icon": "./images/icons/icon2.png",
       "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Home Delevery",
       "id": 3,
       "img": "https://i.ibb.co/k9cJz5j/service3.png",
-      "icon": "https://ibb.co/bLB90Y2",
+      "icon": "./images/icons/icon3.png",
       "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     }
   ]

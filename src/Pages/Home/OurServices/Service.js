@@ -6,7 +6,7 @@ const Service = ({ service }) => {
   return (
     <div className="mb-8">
       <img src={img} alt="" />
-      <div className="flex text-left px-8">
+      <div className="flex text-left px-6">
         <div className="my-3 mr-2 w-14">
           <img src={icon} alt="" />
         </div>

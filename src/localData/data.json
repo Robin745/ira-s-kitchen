@@ -5,42 +5,42 @@
       "id": 1,
       "price": 91,
       "img": "https://i.ibb.co/dfs9cn5/breakfast1.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Breakfast sandwich",
       "id": 2,
       "price": 88,
       "img": "https://i.ibb.co/qDpzyP2/breakfast2.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Baked Chicken",
       "id": 3,
       "price": 99,
       "img": "https://i.ibb.co/8rykTgf/breakfast3.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Eggs Benedict",
       "id": 4,
       "price": 81,
       "img": "https://i.ibb.co/MCgwS7r/breakfast4.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Toast Croissant Fried egg",
       "id": 5,
       "price": 89,
       "img": "https://i.ibb.co/r2ChN91/breakfast5.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Full Breakfast Fried egg Toast Brunch",
       "id": 6,
       "price": 95,
       "img": "https://i.ibb.co/6RScPP0/breakfast6.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     }
   ],
   "lunch": [
@@ -49,42 +49,42 @@
       "id": 1,
       "price": 91,
       "img": "https://i.ibb.co/VTCf2TZ/lunch1.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Fried Chicken Bento",
       "id": 2,
       "price": 88,
       "img": "https://i.ibb.co/mFN2F3Z/lunch2.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Tarragon-Rubbed-Salmon",
       "id": 3,
       "price": 99,
       "img": "https://i.ibb.co/5r0hBHz/lunch3.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Indian Lunch",
       "id": 4,
       "price": 81,
       "img": "https://i.ibb.co/qWmfRh6/lunch4.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Beef Steak",
       "id": 5,
       "price": 89,
       "img": "https://i.ibb.co/wK7FHXB/lunch5.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Honey-Soy-Glazed Salmon",
       "id": 6,
       "price": 95,
       "img": "https://i.ibb.co/FqmCPmR/lunch6.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     }
   ],
   "dinner": [
@@ -92,43 +92,43 @@
       "name": "Salmon With Grapefruit and Lentil Salad",
       "id": 1,
       "price": 81,
-      "img": "./images/dinner/dinner1.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "img": "https://i.ibb.co/kBQ5MLN/dinner1.png",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Lemony Salmon Piccata",
       "id": 2,
       "price": 89,
-      "img": " https://i.ibb.co/kBQ5MLN/dinner1.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "img": "https://i.ibb.co/kKLWH09/dinner2.png",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Pork Tenderloin with Quinoa Pilaf",
       "id": 3,
       "price": 94,
       "img": "https://i.ibb.co/Q8cV82f/dinner3.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "French Fries With Cheese",
       "id": 4,
       "price": 68,
       "img": "https://i.ibb.co/SBqyF8K/dinner4.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Garlic Butter Baked Salmon",
       "id": 5,
       "price": 93,
       "img": "https://i.ibb.co/3dL3cHD/dinner5.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Baked Chicken",
       "id": 6,
       "price": 99,
       "img": "https://i.ibb.co/HKDMJDL/dinner6.png",
-      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     }
   ],
   "services":[
@@ -137,21 +137,21 @@
       "id": 1,
       "img": "https://i.ibb.co/8D894L1/service1.png",
       "icon": "https://ibb.co/x1GnCnn",
-      "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "A Good Auto Responder",
       "id": 2,
       "img": "https://i.ibb.co/L8rT5Pg/service2.png",
       "icon": "https://ibb.co/fHpDHM2",
-      "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     },
     {
       "name": "Home Delevery",
       "id": 3,
       "img": "https://i.ibb.co/k9cJz5j/service3.png",
       "icon": "https://ibb.co/bLB90Y2",
-      "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
+      "desc":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, harum."
     }
   ]
 }
