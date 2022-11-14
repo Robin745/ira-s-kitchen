@@ -9,8 +9,8 @@ const Banner = () => {
     <div>
       <div className="relative">
         <img className="w-full h-auto" src={banner} alt="" />
-        <h1 className="hidden md:block absolute inset-x-0 top-1/3 transform -translate-x-0 -translate-y-1/2 md:text-xl lg:text-2xl xl:text-3xl font-semibold text-green-600">
-          Find the best food for waiting for you
+        <h1 className="hidden md:block absolute inset-x-0 top-1/3 transform -translate-x-0 -translate-y-1/2 md:text-xl lg:text-2xl xl:text-3xl font-semibold text-red-600">
+          Find the best food waiting for you
         </h1>
         <form
           onSubmit={handleFormSubmit}

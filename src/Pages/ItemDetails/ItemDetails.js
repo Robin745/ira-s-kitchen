@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import "./ItemDetails.css";
 import data from "../../localData/data.json";
 import FoodsNavbar from "../Home/Foods/FoodsNavbar/FoodsNavbar";
@@ -11,6 +11,7 @@ import {
 } from "react-icons/ai";
 import { useState } from "react";
 import ImageDetails from "./ImageDetails";
+import { setCart } from "../../hook/useCart";
 
 const ItemDetails = () => {
   const [items, setItems] = useState(parseInt(1));
@@ -35,6 +36,7 @@ const ItemDetails = () => {
     setUpdatePrice(newPrice);
   };
   const handleCart = () => {
+    setCart(id, items, catagory);
     toast.success(items + " Items Added to Cart");
   };
 
@@ -73,6 +75,11 @@ const ItemDetails = () => {
             <AiOutlineShoppingCart className="text-xl"></AiOutlineShoppingCart>
             <p className="ml-2">Add to cart</p>
           </button>
+          <Link to="/checkout">
+            <button className="w-80 flex items-center justify-center bg-green-900 hover:bg-gray-500 text-white hover:text-gray-200 text-sm py-2 my-8 rounded-md">
+              <p className="ml-2">Proceed To Checkout</p>
+            </button>
+          </Link>
         </div>
 
         <div className="lg:w-96 order-1 md:order-2">

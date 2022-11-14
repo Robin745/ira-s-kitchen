@@ -3,7 +3,6 @@ import DinnerItem from "./DinnerItem";
 import useMeals from "../../../../hook/useMeals";
 const Dinner = () => {
   const [data] = useMeals();
-  console.log(data.dinner)
   const dinnerItems= data.dinner;
 
   return (
